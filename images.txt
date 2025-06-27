@@ -1,2 +1,2 @@
-mysql:8.0.37
+node:20.19.3-alpine
 
