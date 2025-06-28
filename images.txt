@@ -1,2 +1,1 @@
-node:20.19.3-alpine
-
+nginx:stable-alpine
